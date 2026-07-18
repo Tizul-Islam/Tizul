@@ -3,13 +3,13 @@
 <h3 align="center">
 Full Stack Developer from Bangladesh 🇧🇩
 </h3>
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Touhidur Zaman</h1></summary>
-    <!--- typo --->
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Technical+Instructor+@PH;Passionate+Full+Stack+Web+Developer;JavaScript+Enthusiast;Interested+in+Bioinformatics" alt="Typing SVG" /></a>
-  </ul>
-</div>
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,27,30&text=Tizul%20Islam&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Node.js&descAlignY=60&descSize=20"
+    alt="Tizul Islam Banner"
+  />
+</p>
 <p align="center">
 I build modern, scalable, and user-focused web applications with clean architecture and maintainable code.
 </p>
