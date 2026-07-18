@@ -95,37 +95,7 @@ I build modern, scalable, and user-focused web applications with clean architect
 
 
 
----
 
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tizul-islam&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=tizul-islam&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tizul-islam&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🤝 Connect With Me
-
-📧 Email: **tizulislamtt@gmail.com**
-
-🌐 Portfolio: **https://tizuldev.vercel.app**
-
-💼 LinkedIn: **https://linkedin.com/in/tizul-islam**
-
-🐙 GitHub: **https://github.com/tizul-islam**
-
----
 
 ## 💭 Developer Philosophy
 
