@@ -33,29 +33,47 @@ I build modern, scalable, and user-focused web applications with clean architect
 
 ## 🛠 Tech Stack
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+<br/>
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
+## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width="35"> <b>Technology Stack</b>
 
-### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+### 💻 Languages
+[![Languages](https://skillicons.dev/icons?i=html,css,js,ts)](https://github.com/Tizul-Islam)
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+### ⚛️ Frontend
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite)](https://github.com/Tizul-Islam)
 
+### 🎨 UI Libraries
+[![UI Libraries](https://skillicons.dev/icons?i=bootstrap,materialui)](https://github.com/Tizul-Islam)
+
+### 🛠 Backend
+[![Backend](https://skillicons.dev/icons?i=nodejs,express)](https://github.com/Tizul-Islam)
+
+### 🗄️ Database & ORM
+[![Database](https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma,supabase)](https://github.com/Tizul-Islam)
+
+### 🔐 Authentication & API
+[![Auth](https://skillicons.dev/icons?i=firebase)](https://github.com/Tizul-Islam)
+
+### ☁️ Cloud & Deployment
+[![Deployment](https://skillicons.dev/icons?i=vercel,netlify,docker)](https://github.com/Tizul-Islam)
+
+### 🧰 Tools
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,npm,pnpm)](https://github.com/Tizul-Islam)
+
+### 🖥 Operating Systems
+[![OS](https://skillicons.dev/icons?i=windows,ubuntu)](https://github.com/Tizul-Islam)
+
+### 🎨 Design
+[![Design](https://skillicons.dev/icons?i=figma,photoshop,illustrator)](https://github.com/Tizul-Islam)
+
+### 📚 Currently Learning
+[![Learning](https://skillicons.dev/icons?i=aws,redis,docker,kubernetes,nginx)](https://github.com/Tizul-Islam)
+
+### 🚀 Future Goals
+[![Future](https://skillicons.dev/icons?i=nestjs,graphql,aws,redis,kubernetes,linux)](https://github.com/Tizul-Islam)
+
+<br/>
 ---
 
 ## 📌 Featured Projects
