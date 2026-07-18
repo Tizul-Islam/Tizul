@@ -73,15 +73,17 @@ I build modern, scalable, and user-focused web applications with clean architect
 [![Future](https://skillicons.dev/icons?i=nestjs,graphql,aws,redis,kubernetes,linux)](https://github.com/Tizul-Islam)
 
 <br/>
+
+
 ---
 
 
 <!-- ========================= GITHUB STATISTICS ========================= -->
 
-<h2 align="center">
+
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   Developer Analytics
-</h2>
+
 
 <p align="center">
 
