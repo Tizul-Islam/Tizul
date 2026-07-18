@@ -12,13 +12,22 @@ I build modern, scalable, and user-focused web applications with clean architect
 
 ---
 
-## 🚀 About Me
+## 👋 About Me
 
-- 🎓 B.Sc. in Computer Science & Engineering
-- 💼 Former Junior Front-End Developer Intern at Zensoft Lab
-- 🌱 Currently expanding my expertise in Backend Development, System Design, and Cloud Technologies
-- ⚡ Passionate about solving real-world problems through software
-- 🤝 Open to Frontend, Full Stack, and Backend opportunities
+- 👋 Hi, I'm **Tizul Islam** (@Tizul-Islam)
+- 💻 Full Stack Developer
+- ⚛️ Passionate about React, Next.js & TypeScript
+- 🚀 Building modern, scalable web applications
+- 🌱 Continuously learning new technologies
+- 🤝 Open to collaboration on exciting projects
+- 📍 Based in Bangladesh
+
+### 🌐 Connect with Me
+
+- 🌍 Portfolio: **(https://tizuldev.vercel.app/)**
+- 📄 Resume: **(https://drive.google.com/file/d/1IOh-ujMvCVuB0LLxlTKkB9EMX5P2xWP4/view?usp=sharing)**
+- 💼 LinkedIn: **[LinkedIn]([touhidcodes@gmail.com](https://www.linkedin.com/in/tizul-islam-81aab2252/))**
+- 📧 Email: **[Email](tizulislamtt@gmail.com)**
 
 ---
 
