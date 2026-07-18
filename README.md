@@ -83,40 +83,17 @@ I build modern, scalable, and user-focused web applications with clean architect
   Developer Analytics
 </h2>
 
-
-
 <p align="center">
-  <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tizul-Islam&theme=tokyo-night&hide_border=true&area=true"/>
+
+  <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tizul-Islam&theme=tokyonight"/>
 </p>
 
 <p align="center">
-
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tizul-Islam&theme=tokyonight"/>
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tizul-Islam&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
 
-## 📌 Featured Projects
 
-### 🚀 GearUp
-Sports & Outdoor Equipment Rental Platform
-
-**Tech:** React • TypeScript • Node.js • Express • Prisma • PostgreSQL • JWT
-
----
-
-### 🏢 Institutional Store Requisition System
-
-Inventory & Store Management System
-
-**Tech:** React • Node.js • MySQL
-
----
-
-### 🏡 WiztecBD
-
-Modern Property Listing Platform
-
-**Tech:** React • Tailwind CSS • Axios
 
 ---
 
