@@ -78,20 +78,24 @@ I build modern, scalable, and user-focused web applications with clean architect
 
 <!-- ========================= GITHUB STATISTICS ========================= -->
 
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  Developer Analytics
+</h2>
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Tizul-Islam/Tizul-Islam/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Tizul-Islam/Tizul-Islam/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tizul-Islam&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tizul-Islam&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-###
+<p align="center">
+  <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tizul-Islam&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tizul-Islam/Tizul-Islam/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tizul-Islam/Tizul-Islam/pacman-output/breakout-contribution-graph.svg?game=breakout">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Tizul-Islam/Tizul-Islam/pacman-output/breakout-contribution-graph.svg?game=breakout">
-</picture>
-
+<p align="center">
+  <img width="48%" src="https://streak-stats.demolab.com?user=Tizul-Islam&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tizul-Islam&theme=tokyonight"/>
+</p>
 
 
 ## 📌 Featured Projects
