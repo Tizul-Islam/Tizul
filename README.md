@@ -103,7 +103,12 @@ I build modern, scalable, and user-focused web applications with clean architect
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Happy+Coding!;Let's+Build+Something+Amazing!;See+You+Again!+👋"/>
+
 </p>
----
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
-⭐ Thanks for visiting my profile!
