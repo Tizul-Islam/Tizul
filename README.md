@@ -95,7 +95,13 @@ I build modern, scalable, and user-focused web applications with clean architect
 
 
 
+<h2 align="center">☕ Support Me</h2>
 
+<p align="center">
+<a href="https://www.buymeacoffee.com/yourname">
+<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/>
+</a>
+</p>
 
 ## 💭 Dev Quote
 
