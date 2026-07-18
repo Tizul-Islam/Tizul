@@ -94,25 +94,16 @@ I build modern, scalable, and user-focused web applications with clean architect
 
 
 
+
+
+
+## 💭 Dev Quote
+
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tizul-Islam&theme=tokyonight&show_icons=true&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tizul-Islam&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tizul-Islam&theme=tokyo-night&hide_border=true&area=true"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=Tizul-Islam&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tizul-Islam&theme=tokyonight"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </p>
-
-
-## 💭 Developer Philosophy
-
-> *"Great software is built with curiosity, consistency, and continuous learning."*
-
 ---
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
 ⭐ Thanks for visiting my profile!
