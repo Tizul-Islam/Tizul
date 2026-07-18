@@ -26,7 +26,7 @@ I build modern, scalable, and user-focused web applications with clean architect
 
 - 🌍 Portfolio: **(https://tizuldev.vercel.app/)**
 - 📄 Resume: **(https://drive.google.com/file/d/1IOh-ujMvCVuB0LLxlTKkB9EMX5P2xWP4/view?usp=sharing)**
-- 💼 LinkedIn: **[LinkedIn]([touhidcodes@gmail.com](https://www.linkedin.com/in/tizul-islam-81aab2252/))**
+- 💼 LinkedIn: **[LinkedIn]((https://www.linkedin.com/in/tizul-islam-81aab2252/))**
 - 📧 Email: **[Email](tizulislamtt@gmail.com)**
 
 ---
