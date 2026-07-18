@@ -2,7 +2,7 @@
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,27,30&text=Hi 👋,Tizul%20Islam&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Node.js&descAlignY=60&descSize=20"
+    src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,27,30&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Tizul%20Islam&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Node.js&descAlignY=60&descSize=20"
     alt="Tizul Islam Banner"
   />
 </p>
